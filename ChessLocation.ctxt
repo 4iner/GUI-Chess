@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ChessLocation
+comment0.text=\r\n\ location\ of\ a\ piece\r\n\ \r\n\ @author\ Mustafa\ Abdulmajeed\r\n\ \r\n
+comment1.params=row\ col
+comment1.target=ChessLocation(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ChessLocation\r\n
+comment2.params=
+comment2.target=int\ getRow()
+comment3.params=
+comment3.target=int\ getCol()
+comment4.params=row\ col
+comment4.target=void\ setCoords(int,\ int)
+comment5.params=cp
+comment5.target=boolean\ equals(ChessLocation)
+comment5.text=\r\n\ checks\ if\ cp\ is\ equal\ to\ this\r\n\ @param\ compared\ cp\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

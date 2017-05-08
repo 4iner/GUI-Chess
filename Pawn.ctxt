@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Pawn
+comment0.text=\r\n\ pawn\ subclass\r\n\ \r\n\ @author\ mustafa\ abdulmajeed\r\n
+comment1.params=player\ initLocation\ game
+comment1.target=Pawn(boolean,\ ChessLocation,\ ChessGame)
+comment1.text=\r\n\ @param\ owner\ (true\ \=\ white,\ false\ \=\ black)\r\n\ @param\ initial\ location\ of\ piece\r\n\ @param\ chess\ game\ this\ piece\ belongs\ to\r\n
+comment2.params=newLocation
+comment2.target=void\ updateThreateningLocation(ChessLocation)
+comment2.text=\r\n\ updates\ threatning\ locations\r\n\ @param\ new\ loc\ of\ this\ piece\r\n
+comment3.params=destination
+comment3.target=boolean\ moveTo(ChessLocation)
+comment3.text=\ \r\n\ \ Checks\ if\ it\ is\ possible\ to\ move\ this\ piece\ piece\ to\ the\ given\ location.\r\n\ \ @param\ New\ location\ object\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ typical\ to\ string\r\n
+numComments=5

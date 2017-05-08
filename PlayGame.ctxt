@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PlayGame
+comment0.text=\r\n\ \ Plays\ the\ game.\r\n\ \r\n\ @author\ Mustafa\ Abdulmajeed\r\n\ @stud\r\n\ @assignment\ Assignment\ \#1\r\n\ @description\ A\ simple\ chess\ game.\ game\ ends\ when\ king\ is\ conquered\ by\ enemy.\ Instructions\ are\ presented\ when\ running.\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

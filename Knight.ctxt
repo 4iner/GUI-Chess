@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Knight
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Knight\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=owner\ initialLocation\ game
+comment1.target=Knight(boolean,\ ChessLocation,\ ChessGame)
+comment1.text=\r\n\ kinght\ constuctor\r\n\ @param\ owner\ (true\ \=\ white,\ false\ \=\ black)\r\n\ @param\ initial\ location\ of\ piece\r\n\ @param\ chess\ game\ this\ piece\ belongs\ to\r\n
+comment2.params=newLocation
+comment2.target=void\ updateThreateningLocation(ChessLocation)
+comment2.text=\r\n\ update\ threatening\ locations\r\n\ @param\ location\ of\ knight\r\n
+comment3.params=newLocation
+comment3.target=boolean\ moveTo(ChessLocation)
+comment3.text=\ \r\n\ \ Checks\ if\ it\ is\ possible\ to\ move\ this\ knight\ piece\ to\ the\ given\ location.\r\n\ \ @param\ New\ location\ object\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

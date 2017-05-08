@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=King
+comment0.text=\r\n\ subclass\ king\ for\ chesspiece\r\n\ \r\n\ @author\ Mustafa\ Abdulmajeed\r\n
+comment1.params=player\ initLocation\ game
+comment1.target=King(boolean,\ ChessLocation,\ ChessGame)
+comment1.text=\r\n\ king\ constructor\r\n\ @param\ owner\ (true\ \=\ white,\ false\ \=\ black)\r\n\ @param\ initial\ location\ of\ piece\r\n\ @param\ chess\ game\ this\ piece\ belongs\ to\r\n
+comment2.params=newLocation
+comment2.target=void\ updateThreateningLocation(ChessLocation)
+comment2.text=\r\n\ update\ threatening\ locations\r\n\ @param\ location\ of\ king\r\n
+comment3.params=destination
+comment3.target=boolean\ moveTo(ChessLocation)
+comment3.text=\ \r\n\ \ Checks\ if\ it\ is\ possible\ to\ move\ this\ piece\ piece\ to\ the\ given\ location.\r\n\ \ @param\ New\ location\ object\r\n
+comment4.params=destinationLocation
+comment4.target=ChessPiece\ locationInDanger(ChessLocation)
+comment4.text=\r\n\ checks\ if\ this\ location\ is\ currently\ in\ danger\r\n\ @param\ location\ checked\r\n
+comment5.params=
+comment5.target=boolean\ anyMovesLeft()
+comment5.text=\r\n\ returns\ if\ king\ can\ move\ or\ nah\r\n
+comment6.params=
+comment6.target=ChessPiece\ check()
+comment6.text=\r\n\ returns\ piece\ that\ threatens\ king\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ typical\ to\ string\r\n
+numComments=8

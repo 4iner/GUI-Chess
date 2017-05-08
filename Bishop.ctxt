@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bishop
+comment0.text=\r\n\ bishop\ sublclass\ of\ chesspiece\r\n\ @author\ Mustafa\ Abdulmajeed\r\n
+comment1.params=player\ initialLocation\ game
+comment1.target=Bishop(boolean,\ ChessLocation,\ ChessGame)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Bishop\r\n\ @param\ owner\ (true\ \=\ white,\ false\ \=\ black)\r\n\ @param\ initial\ location\ of\ piece\r\n\ @param\ chess\ game\ this\ piece\ belongs\ to\r\n
+comment2.params=newLocation
+comment2.target=void\ updateThreateningLocation(ChessLocation)
+comment3.params=destination
+comment3.target=boolean\ moveTo(ChessLocation)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
